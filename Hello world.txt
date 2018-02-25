@@ -2,3 +2,4 @@ print hello world!
 //коммент
 print hello
 print good morning!
+print nice to see you!
